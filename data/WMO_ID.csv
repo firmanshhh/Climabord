@@ -1,0 +1,189 @@
+wmo_id,Stasiun,Lat,Lon
+96001,Stasiun Meteorologi Maimun Saleh,5.87655,95.33785
+96009,Stasiun Meteorologi Malikussaleh,5.22869,96.94749
+96011,Stasiun Meteorologi Sultan Iskandar Muda,5.52244,95.417
+96013,Stasiun Geofisika Aceh Besar,5.496,95.296
+96015,Stasiun Meteorologi Cut Nyak Dhien Nagan Raya,4.04928,96.24796
+96017,Stasiun Klimatologi Aceh,5.404,95.464
+96031,Stasiun Klimatologi Sumatera Utara,3.62114,98.71485
+96033,Stasiun Meteorologi Maritim Belawan,3.78824,98.71492
+96035,Stasiun Meteorologi Kualanamu,3.64573,98.88488
+96037,Stasiun Geofisika Deli Serdang,3.501,98.56
+96039,Stasiun Geofisika Aceh Selatan,3.17333,97.28637
+96041,Balai Besar Meteorologi Klimatologi dan Geofisika Wilayah I,3.5397,98.64
+96043,Stasiun Meteorologi Silangit,2.26136,98.99357
+96071,Stasiun Meteorologi Aek Godang,1.55,99.45
+96073,Stasiun Meteorologi FL Tobing,1.55,98.88
+96075,Stasiun Meteorologi Binaka,1.1649,97.7036
+96077,Stasiun Geofisika Gunungsitoli,1.3,97.58
+96087,Stasiun Meteorologi Hang Nadim,1.11667,104.11667
+96089,Stasiun Meteorologi Raja Haji Abdullah ,1.03,103.38
+96091,Stasiun Meteorologi Raja Haji Fisabilillah,0.9227,104.5289
+96107,Stasiun Klimatologi Riau,0.407,101.217
+96109,Stasiun Meteorologi Sultan Syarif Kasim II,0.45924,101.44743
+96145,Stasiun Meteorologi Tarempa,3.2,106.25
+96147,Stasiun Meteorologi Ranai,3.91206,108.39
+96161,Stasiun Meteorologi Maritim Teluk Bayur,-0.99639,100.37222
+96163,Stasiun Meteorologi Minangkabau,-0.79355,100.28917
+96165,Stasiun Geofisika Padang Panjang,-0.4663,100.3797
+96167,Stasiun Klimatologi Sumatera Barat,-0.54549,100.29786
+96169,Stasiun Pemantau Atmosfer Global Bukit Koto Tabang,-0.2505,100.3823
+96171,Stasiun Meteorologi Japura,-0.33,102.32
+96179,Stasiun Meteorologi Dabo ,-0.48,104.58
+96191,Stasiun Klimatologi Jambi,-1.6019,103.48444
+96195,Stasiun Meteorologi Sultan Thaha,-1.63368,103.64
+96207,Stasiun Meteorologi Depati Parbo,-2.083,101.45
+96221,Stasiun Meteorologi Sultan Mahmud Badaruddin II,-2.89468,104.70129
+96223,Stasiun Klimatologi Sumatera Selatan,-2.92732,104.77197
+96237,Stasiun Meteorologi Depati Amir,-2.17,106.13
+96239,Stasiun Klimatologi Bangka Belitung,-2.518,106.422
+96247,Stasiun Geofisika Tanjung Pandan,-2.7575,107.65
+96249,Stasiun Meteorologi H. AS. Hanandjoeddin,-2.75,107.75
+96253,Stasiun Meteorologi Fatmawati Soekarno,-3.8582,102.3367
+96255,Stasiun Klimatologi Bengkulu,-3.8652,102.3119
+96257,Stasiun Geofisika Kepahiang,-3.55,102.589
+96291,Stasiun Klimatologi Lampung,-5.17236,105.18
+96293,Stasiun Meteorologi Maritim Panjang,-5.4721,105.321
+96295,Stasiun Meteorologi Radin Inten II,-5.16,105.11
+96297,Stasiun Geofisika Lampung Utara,-4.83631,104.87
+96503,Stasiun Meteorologi Nunukan,4.13,117.67
+96505,Stasiun Meteorologi Yuvai Semaring,3.86,115.68
+96509,Stasiun Meteorologi Juwata,3.33,117.57
+96525,Stasiun Meteorologi Tanjung Harapan,2.5,117.22
+96529,Stasiun Meteorologi Kalimarau ,2.14562,117.43375
+96535,Stasiun Meteorologi Paloh,1.74,109.3
+96557,Stasiun Meteorologi Nangapinoh,-0.42,111.47
+96559,Stasiun Meteorologi Tebelian,0.06,111.47
+96565,Stasiun Meteorologi Pangsuma,0.84,112.93
+96581,Stasiun Meteorologi Supadio,-0.14206,109.45
+96583,Stasiun Klimatologi Kalimantan Barat,0.075,109.19
+96585,Stasiun Meteorologi Maritim Pontianak,-0.03,109.34
+96595,Stasiun Meteorologi Beringin,-0.56,114.53
+96607,Stasiun Meteorologi Aji Pangeran Tumenggung Pranoto,-0.48,117.16
+96615,Stasiun Meteorologi Rahadi Oesman,-1.8,109.97
+96633,Stasiun Meteorologi Sultan Aji Muhammad Sulaiman Sepinggan,-1.26,116.9
+96645,Stasiun Meteorologi Iskandar,-2.73,111.66
+96651,Stasiun Meteorologi H. Asan,-2.55,112.93
+96653,Stasiun Meteorologi Sanggu,-1.67,114.9
+96655,Stasiun Meteorologi Tjilik Riwut,-2.22,113.95
+96685,Stasiun Meteorologi Syamsudin Noor,-3.442,114.754
+96687,Stasiun Klimatologi Kalimantan Selatan,-3.46225,114.84
+96695,Stasiun Meteorologi Gusti Syamsir Alam,-3.3,116.17
+96733,Stasiun Klimatologi Banten,-6.26151,106.75084
+96735,Stasiun Geofisika Tangerang,-6.1,106.38
+96737,Stasiun Meteorologi Maritim Serang,-6.11185,106.11
+96739,Stasiun Meteorologi Budiarto,-6.2867,106.56389
+96741,Stasiun Meteorologi Maritim Tanjung Priok,-6.10781,106.88053
+96745,Stasiun Meteorologi Kemayoran,-6.15559,106.84
+96747,Halim Perdana Kusuma Jakarta,-6.27036,106.88926
+96749,Stasiun Meteorologi Soekarno Hatta,-6.12,106.65
+96751,Stasiun Meteorologi Citeko,-6.7,106.85
+96753,Stasiun Klimatologi Jawa Barat,-6.5,106.75
+96783,Stasiun Geofisika Bandung,-6.88356,107.59733
+96791,Stasiun Meteorologi Kertajati,-6.7344,108.263
+96793,Pos Meteorologi Penggung,-6.7553,108.53904
+96797,Stasiun Meteorologi Maritim Tegal,-6.86817,109.12103
+96805,Stasiun Meteorologi Tunggul Wulung,-7.7189,109.0149
+96807,Stasiun Geofisika Banjarnegara,-7.333,109.7069
+96835,Stasiun Klimatologi Jawa Tengah,-6.9847,110.3812
+96837,Stasiun Meteorologi Maritim Tanjung Emas,-6.9486,110.4199
+96839,Stasiun Meteorologi Ahmad Yani,-6.97683,110.3778
+96851,Stasiun Klimatologi DI Yogyakarta,-7.731,110.354
+96855,Stasiun Geofisika Sleman,-7.82,110.3
+96925,Stasiun Meteorologi Sangkapura,-5.8511,112.6578
+96933,Stasiun Meteorologi Perak I,-7.2236,112.7239
+96935,Stasiun Meteorologi Juanda,-7.3846,112.7833
+96937,Stasiun Meteorologi Maritim Tanjung Perak,-7.2053,112.7353
+96939,Stasiun Meteorologi Tuban,-6.8229,111.99177
+96943,Stasiun Klimatologi Jawa Timur,-7.9008,112.5979
+96945,Stasiun Geofisika Pasuruan,-7.70456,112.63533
+96949,Stasiun Geofisika Malang,-8.15,112.45
+96973,Stasiun Meteorologi Trunojoyo,-7.03976,113.914
+96975,Stasiun Geofisika Nganjuk,-7.73486,111.76682
+96987,Stasiun Meteorologi Banyuwangi,-8.215,114.3553
+97008,Stasiun Meteorologi Naha,3.68594,125.52881
+97010,Stasiun Geofisika Manado,1.4434,124.8389
+97012,Stasiun Klimatologi Sulawesi Utara,1.54585,124.9233
+97014,Stasiun Meteorologi Sam Ratulangi,1.54575,124.9234
+97016,Stasiun Meteorologi Maritim Bitung,1.4431,125.1797
+97028,Stasiun Meteorologi Sultan Bantilan,1.12114,120.79433
+97048,Stasiun Meteorologi Djalaluddin,0.6385,122.8525
+97052,Stasiun Klimatologi Gorontalo,0.556,123.14
+97072,Stasiun Meteorologi Mutiara Sis-Al Jufri,-0.91589,119.90554
+97074,Stasiun Geofisika Palu,-0.90536,119.8367
+97086,Stasiun Meteorologi Syukuran Aminudin Amir,-1.04064,122.771
+97096,Stasiun Meteorologi Kasiguncu,-1.42038,120.65701
+97120,Pos Meteorologi Majene,-3.55074,118.98054
+97124,Stasiun Meteorologi Toraja,-3.04524,119.81885
+97126,Stasiun Meteorologi Andi Jemma,-2.55472,120.32422
+97142,Stasiun Meteorologi Sangia Ni Bandera,-4.18059,121.61077
+97144,Stasiun Meteorologi Maritim Kendari,-3.9701,122.5895
+97150,Stasiun Klimatologi Sulawesi Tenggara,-4.056,122.449
+97180,Stasiun Meteorologi Sultan Hasanuddin,-5.07,119.55
+97182,Stasiun Meteorologi Maritim Paotere,-5.11375,119.41983
+97184,Stasiun Klimatologi Sulawesi Selatan,-4.9308,119.572
+97186,Stasiun Geofisika Gowa,-5.218,119.47
+97192,Stasiun Meteorologi Beto Ambari,-5.47,122.62
+97230,Stasiun Meteorologi I Gusti Ngurah Rai ,-8.75,115.17
+97232,Stasiun Geofisika Denpasar,-8.67689,115.21
+97234,Pos Pengamatan Kahang-Kahang,-8.365,115.61083
+97236,Stasiun Klimatologi Bali,-8.341,114.6176
+97240,Stasiun Meteorologi Zainuddin Abdul Madjid,-8.75277,116.24982
+97242,Stasiun Klimatologi Nusa Tenggara Barat,-8.63627,116.17094
+97260,Stasiun Meteorologi Sultan Muhammad Kaharuddin,-8.48845,117.41336
+97270,Stasiun Meteorologi Sultan Muhammad Salahuddin,-8.54279,118.6928
+97282,Stasiun Meteorologi Komodo,-8.48673,119.88683
+97284,Stasiun Meteorologi Frans Sales Lega,-8.63,120.45
+97300,Stasiun Meteorologi Fransiskus Xaverius Seda,-8.63577,122.23752
+97310,Stasiun Meteorologi Gewayantana,-8.2752,122.9986
+97320,Stasiun Meteorologi Mali,-8.13471,124.59
+97340,Stasiun Meteorologi Umbu Mehang Kunda,-9.66944,120.29972
+97372,Stasiun Meteorologi Eltari,-10.1678,123.67039
+97374,Stasiun Klimatologi Nusa Tenggara Timur,-10.13861,123.66722
+97378,Stasiun Meteorologi David Constatijn Saudale,-10.76662,123.07395
+97380,Stasiun Meteorologi Tardamu,-10.5,121.83
+97406,Stasiun Meteorologi Gamar Malamo,1.84092,127.7905
+97430,Stasiun Meteorologi Sultan Babullah,0.8333,127.38
+97432,Stasiun Geofisika Ternate,0.7719,127.3667
+97460,Stasiun Meteorologi Oesman Sadik,-0.63784,127.5
+97502,Stasiun Meteorologi Domine Eduard Osok,-0.89118,131.28575
+97530,Stasiun Meteorologi Rendani,-0.89227,134.05041
+97560,Stasiun Meteorologi Frans Kaisiepo,-1.19069,136.10361
+97570,Stasiun Meteorologi Sudjarwo Tjondro Negoro,-1.8754,136.23994
+97580,Stasiun Meteorologi Mararena,-1.85,138.75
+97600,Stasiun Meteorologi Emalamo,-2.05,126
+97630,Stasiun Meteorologi Torea,-2.91938,132.26496
+97682,Stasiun Meteorologi Nabire,-3.3521,135.52
+97686,Stasiun Meteorologi Wamena Jaya Wijaya,-4.08861,138.94639
+97690,Stasiun Meteorologi Sentani,-2.57,140.48
+97692,Stasiun Klimatologi Jayapura,-2.59231,140.16792
+97694,Stasiun Klimatologi Papua Barat,-1.47,134.19
+97698,Stasiun Meteorologi Dok II Jayapura,-2.53,140.72
+97700,Stasiun Meteorologi Namlea,-3.25,127.08
+97722,Stasiun Meteorologi Amahai,-3.3464,128.9284
+97724,Stasiun Meteorologi Pattimura,-3.7114,128.0957
+97726,Stasiun Klimatologi Maluku,-3.25,128.4
+97728,Stasiun Geofisika Ambon,-3.69,128.19
+97730,Stasiun Meteorologi Maritim Ambon,-3.79053,128.10075
+97748,Stasiun Meteorologi Kuffar,-3.8813,130.88
+97760,Stasiun Meteorologi Utarom,-3.64333,133.69694
+97780,Stasiun Meteorologi Enarotali,-3.92688,136.38
+97790,Stasiun Meteorologi Bandaneira,-4.52338,129.9043
+97796,Stasiun Meteorologi Mozez Kilangin,-4.53006,136.89348
+97810,Stasiun Meteorologi Karel Sadsuitubun,-5.6637,132.7362
+97812,Stasiun Geofisika Nabire,-3.46,135.473
+97876,Stasiun Meteorologi Tanah Merah,-6.1,140.31
+97900,Stasiun Meteorologi Mathilda Batlayeri,-7.98,131.3
+97978,Stasiun Klimatologi Merauke,-8.387,140.517
+97980,Stasiun Meteorologi Mopah,-8.52019,140.41568
+99941,Stasiun Geofisika Kendari,-3.96,122.62
+99992,Balai Besar Meteorologi Klimatologi dan Geofisika Wilayah II,-6.30253,106.75636
+96859,Stasiun Meteorologi Yogyakarta,-7.90746,110.05448
+97116,Stasiun Meteorologi Tampa Padang Mamuju,-2.58939,119.02949
+99921,Pos Meteorologi Liwa Lampung,-5.01732,104.05868
+97370,Stasiun Meteorologi Maritim Tenau,-10.229,123.519
+96635,Stasiun Geofisika Balikpapan,-1.2553,116.91463
+96743,Stasiun Geofisika Gorontalo,0.55588,123.1406
+97504,Stasiun Geofisika Sorong,-0.86,131.26
+97696,Stasiun Geofisika Jayapura,-2.51461,140.70431
+96225,Taman Alat Digital Staklim Sumsel,3.0156,104.43
