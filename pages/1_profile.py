@@ -4,7 +4,7 @@ import folium
 from streamlit_folium import st_folium
 
 # Load latitude and longitude data from the CSV file
-wmo_id = pd.read_csv(f'E:/Workspace/Project/Climate_Indek/Data/WMO_ID.csv')
+wmo_id = pd.read_csv(f'data/WMO_ID.csv')
 
 # Create a Folium map centered at the mean latitude and longitude
 center_lat = wmo_id['Lat'].mean()
